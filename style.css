@@ -1,0 +1,46 @@
+body {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: aqua;
+}
+
+.header_div {
+
+
+    background: red;
+    color: green;
+    
+
+}
+
+.header_div p {
+
+font-family: 'Quicksand';
+color: blue;
+letter-spacing: 2px;
+font-size: 16   px;
+font-weight: bold;
+
+}
+
+
+.footer {
+
+
+    position: fixed;
+    color: rgb(35, 176, 219);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rebeccapurple;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 6px 4px 4px rgb(0, 0, 0);
+    
+}
+
+
+img {
+
+    margin-left: 35px;
+}
